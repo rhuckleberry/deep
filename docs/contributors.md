@@ -29,4 +29,4 @@ and Applied Math and Cognitive Science.
 
 **Paul Gao**: Junior at Baker studying Computer Science and Statistics.
 
-
+**Ryan Huckleberry**: Freshman at McMurtry studying Computer Science.
